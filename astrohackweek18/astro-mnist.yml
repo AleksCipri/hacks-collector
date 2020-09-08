@@ -1,0 +1,12 @@
+
+title: Astro-MNIST
+creators: 
+    - Aleksandra Ciprijanovic
+description: "Currently there are no official benchmarking datasets in astronomy (Astro-MNIST) that can be used by the community to compare different ML models and techniques in order to understand the improvements and benefits of novel approaches. Goal of the project - gather resources in one spot : links to available simulators (for dataset generation) and simulated / observed datasets, links to hosted datasets we prepared for various astronomy research fields (galaxy images, variable stars, supernova spectra etc.), example Jupyter files for using datasets to facilitate easier use and learning, include a set of guidelines for astro-ML “best practices”, links to books and learning resources."
+source-url: https://github.com/AleksCipri/AstroBenchmarking
+live-url: https://alekscipri.github.io/AstroBenchmarking/
+contact-email: aleksand@fnal.gov
+doi: 
+images: astro-mnist.png
+orcid: 
+    - orcid.org/0000-0003-1281-7192
